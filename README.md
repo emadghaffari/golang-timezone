@@ -3,7 +3,7 @@ the timezone list for golang developers
 
 
 # output:
-Africa/Abidjan
+Africa/Abidjan <br />
 Africa/Accra
 Africa/Addis_Ababa
 Africa/Algiers
